@@ -50,7 +50,7 @@ isStatic:true
 
 function draw() {
   rectMode(CENTER);
-  background(0);
+  background("green");
   
 BALL.display();
 dust.display();
